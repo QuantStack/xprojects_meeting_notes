@@ -25,7 +25,7 @@ be discussed as they relate to the
 
 The next xprojects developer meeting is scheduled for
 
-[Wednesday October 3rd 2018 at 5pm Paris time (11am EST, 8am
-PST)](2018/10/03/Notes.md)
+[Wednesday October 24th 2018 at 5pm Paris time (11am EST, 8am
+PST)](2018/10/24/Notes.md)
 
-Connection details for the video meeting will be posted here.
+Please connect to appear.in/QuantStack at the time of the meeting!
